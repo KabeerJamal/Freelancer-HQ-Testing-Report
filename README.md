@@ -21,7 +21,7 @@ The primary goal was to assess the quality of key user flows through **manual ex
 
 ## How to Navigate This Project
 
-1. **Start with the PDF Report**: For a high-level executive summary, methodology, and detailed analysis, read [Freelancer HQ+ Website testing.pdf](./Freelance HQ+ Website testing.pdf)
+1. **Start with the PDF Report**: For a high-level executive summary, methodology, and detailed analysis, read [Freelancer HQ+ Website testing.pdf](./Freelance-HQ+-Website-testing.pdf)
 2. **Dive into the Details**: Use the [Test Tracking Sheet](https://docs.google.com/spreadsheets/d/1LDptUuEUEi6cIISpkPu3BXWBYx9-BGGcPxaAJAoKW1s/edit?usp=sharing) to see the raw test cases, execution steps, and how each defect was discovered
 3. **Review the Defects**: Section 6 of the PDF report contains the complete list of defects with steps to reproduce and visual evidence
 4. **View the website**: https://studio-pearl-tau.vercel.app/
